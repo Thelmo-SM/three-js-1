@@ -12,4 +12,4 @@ Este proyecto es mi primer acercamiento al desarrollo 3D en la web usando [Three
 
 Puedes ver el proyecto funcionando en esta URL:
 
-[Cubo giratorio](https://github.com/Thelmo-SM/three-js-1)
+[Cubo giratorio](https://three-js-1-puce.vercel.app/)
